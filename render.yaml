@@ -8,4 +8,4 @@ services:
     plan: starter
     pullRequestPreviewsEnabled: true # optional
     previewPlan: starter
-    region: frankfurt # optional (defaults to oregon)
+    #region: frankfurt # optional (defaults to oregon)
